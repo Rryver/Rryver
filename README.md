@@ -1,9 +1,9 @@
 
 # Hi, I'm Aleksandr! 👋
 
-I'm Java software developer from Russia, Vologda.
+I'm a Java software developer from Russia, Vologda.
 <br>
-In the past I also worked as a PHP web programmer. But now I am developing in the direction of Java development.
+In the past I also worked as a PHP web programmer. But now I am focused on Java development.
 
 
 ## 🛠 Skills
