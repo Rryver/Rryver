@@ -27,3 +27,6 @@ Also worked with:
 [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square)]()
 [![CSS](https://img.shields.io/badge/CSS-33ECFF?style=flat-square)]()
 [![jQuery](https://img.shields.io/badge/jQuery-ECECEC?style=flat-square)]()
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rryver&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
