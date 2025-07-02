@@ -27,8 +27,3 @@ Also worked with:
 [![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square)]()
 [![CSS](https://img.shields.io/badge/CSS-33ECFF?style=flat-square)]()
 [![jQuery](https://img.shields.io/badge/jQuery-ECECEC?style=flat-square)]()
-
-
-## 🔗 Contacts
- - Ryver.rainege@gmail.com
-
