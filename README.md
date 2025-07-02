@@ -7,7 +7,7 @@ In the past I also worked as a PHP web programmer. But now I am developing in th
 
 
 ## 🛠 Skills
-I'm currently working `(and learning)` such technologies as: 
+I'm currently working with `(and learning)` such technologies as: 
 
 [![Java](https://img.shields.io/badge/Java-515151?style=flat-square)]()
 [![Spring](https://img.shields.io/badge/Spring-green?style=flat-square&labelColor)]()
